@@ -24,7 +24,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-## 🔧 GitHub Statistics
+## 🔧 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszAndziak&hide=TeX&layout=compact&theme=transparent&text_color=FFFFFF&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF) ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=MariuszAndziak&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)<br/>
 
 ## 🔧 GitHub Trophies
