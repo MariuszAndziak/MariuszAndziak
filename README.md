@@ -1,6 +1,9 @@
-## 🔧 Social media
+### 🔹 Who am I
+
+#### 🔹 Where to find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-2B4F7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariusz-andziak-b72aa222a) 
 
+#### 🔹 What I use
 <p align="center">
   <img src="https://img.shields.io/badge/scikit--learn-355F8C?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-2E5B88?style=for-the-badge&logo=pytorch&logoColor=white"/>
