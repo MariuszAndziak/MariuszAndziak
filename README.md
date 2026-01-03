@@ -5,6 +5,13 @@
 
 #### 🔹 What I use
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-355F8C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-3A6EA5?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-2C3E50?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-1C1F26?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-2F6DAE?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/scikit--learn-355F8C?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-2E5B88?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-3A6EA5?style=for-the-badge&logo=tensorflow&logoColor=white"/>
