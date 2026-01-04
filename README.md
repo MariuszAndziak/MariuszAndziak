@@ -55,7 +55,7 @@ To be added...
   </tr>
   <tr>
     <td><b>Business goal</b></td>
-    <td>Predict how many bike will be rent.</td>
+    <td>Predict how many bikes will be rented.</td>
   </tr>
   <tr>
     <td><b>Technical goal</b></td>
