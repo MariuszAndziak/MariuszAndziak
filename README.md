@@ -59,13 +59,13 @@ To be added...
   </tr>
   <tr>
     <td><b>Technical goal</b></td>
-    <td>Establish standards for basic MLops automation</td>
+    <td>Establish standards for basic MLOps automation.</td>
   </tr>
   <tr>
     <td><b>Skills learned</b></td>
     <td>
-      🔹 data cleaning and preprocessing using sklearn pipelines<br/>
-      🔹 project tracking using neptune
+      🔹 Data cleaning and preprocessing using sklearn pipelines<br/>
+      🔹 Project tracking using neptune
     </td>
   </tr>
     <tr>
@@ -76,11 +76,12 @@ To be added...
   </tr>
 </table>
 <p align="center">
-  <a href="https://github.com/USERNAME/REPO">
+  <a href="https://github.com/MariuszAndziak/bike_sharing">
     <img src="https://img.shields.io/badge/Go%20to%20project-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+---
 
 
 
