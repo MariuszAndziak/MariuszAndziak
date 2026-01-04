@@ -92,7 +92,46 @@ To be added...
 </details>
 <details>
 <summary>Natural Language Processing</summary>
-To be added...
+
+
+<table>
+  <tr>
+    <th colspan="2"> <h3>NLP ekolo</h3></th>
+  </tr>
+  <tr>
+    <td><b>Business goal</b></td>
+    <td>Retrieve any interesting common information concerning the citizens' budget dataset</td>
+  </tr>
+  <tr>
+    <td><b>Technical goal</b></td>
+    <td>Train distributional and statistical NLP models.</td>
+  </tr>
+  <tr>
+    <td><b>Skills learned</b></td>
+    <td>
+      🔹 Training an autocorrect model for polish language<br/>
+      🔹 Performing different topic extraction methods<br/>
+      🔹 Training NER models<br/>
+      🔹 Finding similarities in extracted data<br/>
+    </td>
+  </tr>
+    <tr>
+    <td><b>Techstack used</b></td>
+    <td>
+     <img src="https://img.shields.io/badge/NLP-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spacy-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/GLove-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/LDA-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fasttext-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/NER-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Doc2Vec-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bert-1F4E79?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <a href="https://github.com/MariuszAndziak/NLP-ekolo/">
+    <img src="https://img.shields.io/badge/Go%20to%20project-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
+
 </details>
 <details>
 <summary>Agentic AI</summary>
