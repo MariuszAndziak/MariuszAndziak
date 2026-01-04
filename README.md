@@ -51,7 +51,7 @@ To be added...
 
 <table>
   <tr>
-    <th colspan="2">Bike sharing</th>
+    <th colspan="2"> <h3>Bike sharing</h3></th>
   </tr>
   <tr>
     <td><b>Business goal</b></td>
@@ -75,7 +75,11 @@ To be added...
     </td>
   </tr>
 </table>
-
+<p align="center">
+  <a href="https://github.com/USERNAME/REPO">
+    <img src="https://img.shields.io/badge/Go%20to%20project-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 
 
