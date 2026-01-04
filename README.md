@@ -46,7 +46,40 @@ To be added...
 </details>
 <details>
 <summary>Machine Learning</summary>
-To be added...
+  
+
+
+<table>
+  <tr>
+    <th colspan="2">Bike sharing</th>
+  </tr>
+  <tr>
+    <td><b>Business goal</b></td>
+    <td>Predict how many bike will be rent.</td>
+  </tr>
+  <tr>
+    <td><b>Technical goal</b></td>
+    <td>Establish standards for basic MLops automation</td>
+  </tr>
+  <tr>
+    <td><b>Skills learned</b></td>
+    <td>
+      🔹 data cleaning and preprocessing using sklearn pipelines<br/>
+      🔹 project tracking using neptune
+    </td>
+  </tr>
+    <tr>
+    <td><b>Techstack used</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-1C1F26?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-2C3E50?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Sklearn-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pipelines-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Neptune-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Experiment tracking-1F4E79?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 </details>
 <details>
 <summary>Analytics</summary>
