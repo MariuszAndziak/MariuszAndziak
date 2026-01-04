@@ -39,3 +39,24 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
+#### 🔹 What have I done
+<details>
+<summary>Causality</summary>
+To be added...
+</details>
+<details>
+<summary>Machine Learning</summary>
+To be added...
+</details>
+<details>
+<summary>Analytics</summary>
+To be added...
+</details>
+<details>
+<summary>Natural Language Processing</summary>
+To be added...
+</details>
+<details>
+<summary>Agentic AI</summary>
+To be added...
+</details>
