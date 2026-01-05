@@ -42,7 +42,44 @@
 #### 🔹 What have I done
 <details>
 <summary>Causality</summary>
-To be added...
+
+<table>
+  <tr>
+    <th colspan="2"> <h3><a href="https://github.com/MariuszAndziak/CausalMatricesDiff">CausalMatricesDiff</a></h3></th>
+  </tr>
+  <tr>
+    <td><b>Business goal</b></td>
+    <td>To make a useful library for future causal projects.</td>
+  </tr>
+  <tr>
+    <td><b>Technical goal</b></td>
+    <td>Establish methods and metrics of comparing two Directed Acyclic Graphs.</td>
+  </tr>
+  <tr>
+    <td><b>Skills learned</b></td>
+    <td>
+      🔹 Measuring how two DAGs can differ.<br>
+      🔹 Making a lightweight library for future use.<br>
+    </td>
+  </tr>
+    <tr>
+    <td><b>Techstack used</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-1C1F26?style=for-the-badge&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/Causal AI-1F4E79?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <a href="https://github.com/MariuszAndziak/CausalMatricesDiff">
+    <img src="https://img.shields.io/badge/Go%20to%20project-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
+
+
 </details>
 <details>
 <summary>Machine Learning</summary>
