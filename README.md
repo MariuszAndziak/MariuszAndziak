@@ -1,4 +1,7 @@
 ### 🔹 Who am I
+Prospective Causal ML Engineer & Causal Data Scientist | Causal Modeling
+<br>15+ years of commercial experience in environmental engineering
+<br>5+ years of non-commercial experience in Machine Learning and Data Science
 
 #### 🔹 Where to find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-2B4F7C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariusz-andziak-b72aa222a) 
@@ -108,7 +111,7 @@
     <tr>
     <td><b>Techstack used</b></td>
     <td>
-      <img src="https://img.shields.io/badge/NumPy-1C1F26?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-2C3E50?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Sklearn-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pipelines-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Neptune-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Experiment tracking-1F4E79?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/NumPy-1C1F26?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-2C3E50?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Sklearn-355F8C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pipelines-3A5F7D?style=for-the-badge"/> <img src="https://img.shields.io/badge/Neptune-2F6DAE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Experiment tracking-3A6EA5?style=for-the-badge"/>
     </td>
   </tr>
 </table>
@@ -133,7 +136,7 @@ To be added...
 
 <table>
   <tr>
-    <<th colspan="2"> <h3><a href="https://github.com/MariuszAndziak/NLP-ekolo/">NLP ekolo</a></h3></th>
+    <th colspan="2"> <h3><a href="https://github.com/MariuszAndziak/NLP-ekolo/">NLP ekolo</a></h3></th>
   </tr>
   <tr>
     <td><b>Business goal</b></td>
@@ -155,7 +158,7 @@ To be added...
     <tr>
     <td><b>Techstack used</b></td>
     <td>
-     <img src="https://img.shields.io/badge/NLP-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spacy-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/GLove-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/LDA-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fasttext-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/NER-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Doc2Vec-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bert-1F4E79?style=for-the-badge"/>
+     <img src="https://img.shields.io/badge/NLP-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spacy-355F8C?style=for-the-badge"/> <img src="https://img.shields.io/badge/GLove-3A5F7D?style=for-the-badge"/> <img src="https://img.shields.io/badge/LDA-1F4E79?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fasttext-2F6DAE?style=for-the-badge"/> <img src="https://img.shields.io/badge/NER-3A6EA5?style=for-the-badge"/> <img src="https://img.shields.io/badge/Doc2Vec-355F8C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bert-3A5F7D?style=for-the-badge"/>
     </td>
   </tr>
 </table>
