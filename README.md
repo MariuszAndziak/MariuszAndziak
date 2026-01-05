@@ -88,7 +88,7 @@
 
 <table>
   <tr>
-    <th colspan="2"> <h3>Bike sharing</h3></th>
+    <th colspan="2"> <h3><a href="https://github.com/MariuszAndziak/bike_sharing">Bike sharing</a></h3></th>
   </tr>
   <tr>
     <td><b>Business goal</b></td>
@@ -133,7 +133,7 @@ To be added...
 
 <table>
   <tr>
-    <th colspan="2"> <h3>NLP ekolo</h3></th>
+    <<th colspan="2"> <h3><a href="https://github.com/MariuszAndziak/NLP-ekolo/">NLP ekolo</a></h3></th>
   </tr>
   <tr>
     <td><b>Business goal</b></td>
