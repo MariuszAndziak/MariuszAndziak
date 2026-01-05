@@ -175,5 +175,42 @@ To be added...
 </details>
 <details>
 <summary>Agentic AI</summary>
-To be added...
+
+<table>
+  <tr>
+    <th colspan="2"> <h3><a href="https://github.com/MariuszAndziak/InvoiceExtractor">InvoiceExtractor</a></h3></th>
+  </tr>
+  <tr>
+    <td><b>Business goal</b></td>
+    <td>Make a POC for automating invoice processing tasks</td>
+  </tr>
+  <tr>
+    <td><b>Technical goal</b></td>
+    <td>Transfer a primer concept made in GeneratorGPT (as part of the AIdeas challenge) to Python code.</td>
+  </tr>
+  <tr>
+    <td><b>Skills learned</b></td>
+    <td>
+      🔹 Ensuring data quality at every step of the process. <br>
+      🔹 Integrating  databases and prior knowledge into Agentic AI task.<br>
+    </td>
+  </tr>
+    <tr>
+    <td><b>Techstack used</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pydantic-355F8C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic AI-3A5F7D?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <a href="https://github.com/MariuszAndziak/InvoiceExtractor">
+    <img src="https://img.shields.io/badge/Go%20to%20project-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
+
+
 </details>
