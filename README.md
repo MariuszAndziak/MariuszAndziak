@@ -172,6 +172,44 @@ To be added...
 
 
 
+<table>
+  <tr>
+    <th colspan="2"> <h3><a href="https://github.com/MariuszAndziak/baselineGPT/">baselineGPT</a></h3></th>
+  </tr>
+  <tr>
+    <td><b>Business goal</b></td>
+    <td>Feasibility test for corpus-specific language generation</td>
+  </tr>
+  <tr>
+    <td><b>Technical goal</b></td>
+    <td>To make a simple autoregressive model in Python.</td>
+  </tr>
+  <tr>
+    <td><b>Skills learned</b></td>
+    <td>
+      🔹 Making use of n-grams and sampling methods<br/>
+      🔹 Building a simple typewriter text generation effect<br/>
+    </td>
+  </tr>
+    <tr>
+    <td><b>Techstack used</b></td>
+    <td>
+    <img src="https://img.shields.io/badge/Python-355F8C?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <a href="https://github.com/MariuszAndziak/baselineGPT/">
+    <img src="https://img.shields.io/badge/Go%20to%20project-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
+
+
+
 </details>
 <details>
 <summary>Agentic AI</summary>
