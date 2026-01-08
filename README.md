@@ -25,12 +25,14 @@ Prospective Causal ML Engineer & Causal Data Scientist | Causal Modeling
   <img src="https://img.shields.io/badge/DoWhy-3B6EA8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/gCastle-2C3E50?style=for-the-badge"/>
 </p>
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2F6DAE?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-355F8C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt-3A5F7D?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-1F4E79?style=for-the-badge"/>
 </p>
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/Git-2C3E50?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-1C1F26?style=for-the-badge&logo=github&logoColor=white"/>
@@ -126,10 +128,13 @@ Prospective Causal ML Engineer & Causal Data Scientist | Causal Modeling
 
 
 </details>
+
+<!--
 <details>
 <summary>Analytics</summary>
 To be added...
 </details>
+-->
 <details>
 <summary>Natural Language Processing</summary>
 
